@@ -1,0 +1,7 @@
+body {
+    height: max-content;
+    height: 200vh;
+    margin: 0;
+    background-color: #333333;
+    background: linear-gradient(45deg, #ffffff, #879a83);
+}
